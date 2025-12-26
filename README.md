@@ -37,7 +37,17 @@ This project creates an electronic wreath display that pays homage to Khan Nooni
 
 ## Software Requirements
 
-[Software dependencies and setup instructions coming soon]
+### Setup Instructions
+
+1. **Install CircuitPython**: Follow the [CircuitPython installation guide](https://learn.adafruit.com/welcome-to-circuitpython) to install the latest CircuitPython on your Qualia ESP32-S3
+2. **Install Libraries**: Install the `adafruit_qualia` library using the [CircuitPython library bundle instructions](https://learn.adafruit.com/circuitpython-libraries-on-any-computer)
+3. **Add Project Files**: 
+   - Copy `code.py` to the root directory of your CircuitPython device
+   - Copy `khan.bmp` to the root directory of your CircuitPython device
+
+### Required Libraries
+
+- [`adafruit_qualia`](https://github.com/adafruit/Adafruit_CircuitPython_Qualia) - For driving the round RGB display
 
 ## Demo
 
@@ -51,4 +61,4 @@ Click Thumbnail to Watch
 
 ## License
 
-[License information coming soon]
+This project is released into the public domain.
