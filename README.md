@@ -10,9 +10,9 @@ This project creates an electronic wreath display that pays homage to Khan Nooni
 
 ## Features
 
-- Electronic lighting effects
-- Interactive display elements
-- Star Trek-themed design
+- NeoPixel lighting effects (You can either use WLED with one of the Adafruit Sparkle Motion boards or have the Qualia drive pixels)
+- 4" 720x720 IPS display for displaying images or animations
+- Leave 2025 with great humor and a good looking home decoration
 
 ## Setup Instructions
 
