@@ -39,6 +39,10 @@ This project creates an electronic wreath display that pays homage to Khan Nooni
 
 [Software dependencies and setup instructions coming soon]
 
+## Demo
+
+[![Wreath of Khan Demo](https://img.youtube.com/vi/lWKWaz90qJk/0.jpg)](https://youtu.be/lWKWaz90qJk)
+
 ## Contributing
 
 [Contribution guidelines coming soon]
