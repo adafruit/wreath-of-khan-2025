@@ -28,6 +28,8 @@ This project creates an electronic wreath display that pays homage to Khan Nooni
 
 ## Hardware Requirements
 
+![In Progress](inprogress.jpeg)
+
 ### Main Components
 
 - **Microcontroller**: [Adafruit Qualia ESP32-S3 for TTL RGB-666 Displays](https://www.adafruit.com/product/5800) - Dev board with 16MB Flash and 8MB PSRAM designed for driving large RGB displays
