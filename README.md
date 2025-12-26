@@ -27,7 +27,13 @@ This project creates an electronic wreath display that pays homage to Khan Nooni
 
 ### Additional Components
 
-[Additional hardware components coming soon]
+- Pinecones 
+- Fresh fir wreath from local tree seller
+- Tinsel
+- Painted wooden planets
+- NCC-1864 USS Reliant DIY model kit
+- Hot glue
+- Unrelenting vindictiveness towards Captain Kirk
 
 ## Software Requirements
 
